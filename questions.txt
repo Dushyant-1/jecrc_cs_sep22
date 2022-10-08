@@ -1,0 +1,24 @@
+find the longest movie name
+
+find the number of movies that got 10 star rating
+
+how many industries are there
+
+find the least liked comedy movie name
+
+longest english movie
+
+what is genre of interstellar
+
+what is the average duration of each genre
+
+what is the average rating of each industry
+
+average rating of romantic movies industry wise
+
+list down all the english movies with their respective ratings in descending order
+
+capitalize - to capitalize first letter
+
+kaggle website
+

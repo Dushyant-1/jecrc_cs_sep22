@@ -1,0 +1,6 @@
+name;age;roll
+'akash';21;100
+'akasht';22;101
+'sunny';20;102
+'bunny';25;104
+'ashis';24;105
