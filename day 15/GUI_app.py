@@ -16,7 +16,7 @@ print(msg.get())
 ttk.Label(app, textvariable=msg).place(x=100,y=70)
 
 def abc():
-    print("Ahah")
+    print("wow")
     msg.set("Jo tera mann kare")
 
 ttk.Button(app, text ="Isko press karo", command =abc).place(x=100,y=100)
