@@ -78,3 +78,4 @@ def show():
     #plt.show()
     #print(col1.get(),col2.get(),col3.get())
 
+app.mainloop()
